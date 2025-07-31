@@ -1,8 +1,10 @@
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  font-size: 20px;
   text-align: center;
+}
 
+html {
+  font-size: 20px;
 }
 
 .blue {
